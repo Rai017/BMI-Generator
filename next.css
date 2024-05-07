@@ -1,0 +1,31 @@
+.cont{
+    margin-left: 45%;
+}
+button{
+    margin-left: 100px;
+    margin-top: 20px;
+    height: 40px;
+    width: 120px;
+    font-weight: bolder;
+    background-color: rgb(24, 162, 24);
+}
+h3{
+    margin-left: 80px;
+    margin-bottom: 10pxpx;
+    margin-top: 90px;}
+.a{
+    margin-left: 50px;
+}
+h1{
+    margin-left: 25px;
+    margin-bottom: 30px;
+    color: brown;
+    
+    margin-top: 30px;
+}
+#result{
+    margin-left: 90px;
+    margin-top: 20px;
+    color: red;
+    font-weight: bold;
+}
